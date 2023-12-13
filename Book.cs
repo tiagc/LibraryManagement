@@ -9,7 +9,7 @@ namespace LibraryManagement
 {
     public class Book
     {
-        public string Title; 
+        public string Title;
         public string Author;
         public int PublishingYear;
         public bool IsLent;
